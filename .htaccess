@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^spell-check-library.php$ - [F]
+RewriteRule ^tbproxy/spell index.php
