@@ -1,4 +1,4 @@
-FROM php:8.3.22-apache
+FROM php:8.3.23-apache
 
 RUN set -eux ; \
     apt-get update ; \
